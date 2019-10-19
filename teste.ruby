@@ -1,5 +1,9 @@
 puts "Agora esse texto é em ruby"
 puts "aaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+while condição
+	
+end
+
 ------------------------------------
 puts "sdfsdfsdfsssssssssssssssssss"
 
