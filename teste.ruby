@@ -1,2 +1,1 @@
-puts 
-Teste de digitação git hub alteração da ka coisa nova vindo ai
+puts "Agora esse texto é em ruby"
