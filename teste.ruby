@@ -1,10 +1,12 @@
 MASTER----------------------
 
+puts "AQUI VÃO OS CODIGOS DO MASTER"
+puts "CODIGO MASTER FINAL PARA O TESTE DERRADEIRO"
 
 
 
 KA-----------------------
-
+puts "NOVOS CODIGOS DA KA QUE NAO INTERFEREM EM NADA COM O MASTER"
 
 
 GUI----------------------
