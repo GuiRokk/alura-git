@@ -1,6 +1,8 @@
 MASTER----------------------
 
 puts "AQUI VÃO OS CODIGOS DO MASTER"
+puts "CODIGO MASTER FINAL PARA O TESTE DERRADEIRO"
+
 
 
 KA-----------------------
