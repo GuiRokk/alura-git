@@ -9,4 +9,8 @@ puts "sdfsdfsdfsssssssssssssssssss"
 if teste
 	
 end
+
+x = 2
+
+
 puts "asde3frt656666666666666666666"
