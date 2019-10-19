@@ -1,9 +1,8 @@
 puts "Agora esse texto é em ruby"
 puts "aaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 while condição
-	
+y = 4	
 end
-
 ------------------------------------
 puts "sdfsdfsdfsssssssssssssssssss"
 
